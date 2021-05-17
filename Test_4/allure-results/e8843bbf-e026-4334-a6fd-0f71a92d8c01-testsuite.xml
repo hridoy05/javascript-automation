@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621239921575' stop='1621239944281'>
+    <name>About Bikroy</name>
+    <title>About Bikroy</title>
+    <test-cases>
+        <test-case start='1621239921575' status='passed' stop='1621239926560'>
+            <name>about link test</name>
+            <title>about link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239926560' status='passed' stop='1621239930865'>
+            <name>about careers link test</name>
+            <title>about careers link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239930865' status='passed' stop='1621239935706'>
+            <name>about terms link test</name>
+            <title>about terms link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239935706' status='passed' stop='1621239940126'>
+            <name>about privacy link test</name>
+            <title>about privacy link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239940126' status='passed' stop='1621239944280'>
+            <name>about sitemap link test</name>
+            <title>about sitemap link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,8 +1,8 @@
 {
-  "name": "Test_1",
+  "name": "Test_4",
   "version": "1.0.0",
   "description": "",
-  "main": "conf.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

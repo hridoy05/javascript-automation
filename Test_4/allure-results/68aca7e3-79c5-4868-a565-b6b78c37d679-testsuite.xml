@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621239884592' stop='1621239921572'>
+    <name>help and support</name>
+    <title>help and support</title>
+    <test-cases>
+        <test-case start='1621239884593' status='passed' stop='1621239892106'>
+            <name>blog link test</name>
+            <title>blog link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239892106' status='passed' stop='1621239905582'>
+            <name>facebook link test</name>
+            <title>facebook link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239905582' status='passed' stop='1621239912319'>
+            <name>twittter link test</name>
+            <title>twittter link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621239912320' status='passed' stop='1621239921572'>
+            <name>youtube link test</name>
+            <title>youtube link test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

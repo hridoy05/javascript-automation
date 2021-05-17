@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "allure-commandline": "^2.13.8",
     "jasmine": "^3.7.0",
+    "jasmine-allure-reporter": "^1.0.2",
     "protractor": "^7.0.0"
   }
 }

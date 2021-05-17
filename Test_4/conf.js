@@ -19,17 +19,14 @@ exports.config = {
 
   // Spec patterns are relative to the current working directory when
   // protractor is called.
-  suites: {
-    dhaka: './Tests/dhaka.spec.js',
-    chattogram: './Tests/chattogram.spec.js',
-    sylhet: './Tests/sylhet.spec.js',
-    khulna: './Tests/khulna.spec.js',
-    barishal: './Tests/barishal.spec.js',
-    rangpur: './Tests/rangpur.spec.js',
-    rajshahi: './Tests/rajshahi.spec.js',
-    mymensingh: './Tests/mymensingh.spec.js'
-
+  suites:{
+    utils: './Tests/utils.spec.js',
+    more_from_bikroy : './Tests/more_from_bikroy.spec.js',
+    help_support : './Tests/help_support.spec.js',
+    follow_bikroy: './Tests/follow_bikroy.spec.js',
+    about_bikroy: './Tests/about_bikroy.spec.js'
   },
+    
 
   // Options to be passed to Jasmine.
   jasmineNodeOpts: {

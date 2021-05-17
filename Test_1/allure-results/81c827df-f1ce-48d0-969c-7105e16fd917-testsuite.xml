@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621241080079' stop='1621241108268'>
+    <name>test one bikroy.com</name>
+    <title>test one bikroy.com</title>
+    <test-cases>
+        <test-case start='1621241080080' status='passed' stop='1621241097135'>
+            <name>get page</name>
+            <title>get page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241097136' status='passed' stop='1621241100475'>
+            <name>scroll down</name>
+            <title>scroll down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241100475' status='passed' stop='1621241101504'>
+            <name>find text</name>
+            <title>find text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241101504' status='passed' stop='1621241102537'>
+            <name>assert find text</name>
+            <title>assert find text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241102538' status='passed' stop='1621241105772'>
+            <name>scroll up</name>
+            <title>scroll up</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241105772' status='passed' stop='1621241107131'>
+            <name>post your ad</name>
+            <title>post your ad</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621241107131' status='passed' stop='1621241108267'>
+            <name>assert post your ad</name>
+            <title>assert post your ad</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

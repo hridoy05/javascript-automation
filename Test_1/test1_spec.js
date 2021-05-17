@@ -31,7 +31,7 @@ describe("test one bikroy.com",()=> {
     
   });
   it('assert post your ad', async() => {
-   let  ele = element(by.css("span.btn-post")).getText()
+   let  ele = await element(by.css("span.btn-post")).getText()
    expect(ele).toBe("POST YOUR AD")
     
   });
