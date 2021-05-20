@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621492560651' stop='1621492590491'>
+    <name>test dhaka page of birkroy.com</name>
+    <title>test dhaka page of birkroy.com</title>
+    <test-cases>
+        <test-case start='1621492560651' status='passed' stop='1621492562546'>
+            <name>find lowest value</name>
+            <title>find lowest value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621492562546' status='passed' stop='1621492574219'>
+            <name>click on loweat value</name>
+            <title>click on loweat value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621492574219' status='passed' stop='1621492578918'>
+            <name>find date text</name>
+            <title>find date text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621492578918' status='passed' stop='1621492582483'>
+            <name>find element text</name>
+            <title>find element text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621492582483' status='passed' stop='1621492586777'>
+            <name>click number button</name>
+            <title>click number button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621492586777' status='passed' stop='1621492590490'>
+            <name>valid_phone_number</name>
+            <title>valid_phone_number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
